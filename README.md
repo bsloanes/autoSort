@@ -4,4 +4,4 @@
 2. pip install or pip3 install each package listed in the .txt file
 3. run the ExecutionLabeling.py file 
 4. newExecutionLabeling *in progress* for train-test split by label
-5. dataFunctionsReOrg and mlTrainNTest contain all of the functions tested out through development, but the ones used are contained in ExecutionLabeling 
+5. dataFunctionsReOrg and mlTrainAndTest contain all of the functions tested out through development, but the ones used are contained in ExecutionLabeling 
